@@ -11,3 +11,5 @@ F:\soft\Python\Python27\python.exe D:/docs/Dev/Python/Code/learn-python/json/Sim
 
 
 文学：https://api.auto-learning.com/v3/xcx/search?nationId=0&typeId=1&pageIndex=0&isAsc=0&isRead=0
+历史：https://api.auto-learning.com/v3/xcx/search?nationId=0&typeId=6&pageIndex=0&isAsc=0&isRead=0
+
